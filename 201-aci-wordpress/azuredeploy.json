@@ -44,8 +44,8 @@
   },
   "variables": {
     "image": "microsoft/azure-cli",
-    "cpuCores": "0.5",
-    "memoryInGb": "0.7",
+    "cpuCores": "2",
+    "memoryInGb": "4",
     "shareContainerGroupName": "createshare-containerinstance",
     "wordpressContainerGroupName": "wordpress-containerinstance",
     "wordpressShareName": "wordpress-share",
